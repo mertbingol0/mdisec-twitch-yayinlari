@@ -212,6 +212,21 @@ Bu repo'da https://twitch.tv/mdisec kanalında yapılan kanlı-canlı siber güv
 
 </details>
 
+
+<details>
+  <summary>Source Code Challenges</summary>
+
+  1. 0x01 | Web Security 0x19 | Source-Code Review SonarSource
+      * [https://www.twitch.tv/videos/848692616](https://www.twitch.tv/videos/848692616)
+      * [https://www.youtube.com/watch?v=V_ogHUIF8E0](https://www.youtube.com/watch?v=V_ogHUIF8E0)
+  2. 0x02 | SonarSource 2021 - Güvenlik Zafiyeti Takvimi Challenge !
+     * [https://www.twitch.tv/videos/1232694851](https://www.twitch.tv/videos/1232694851)
+     * [https://www.youtube.com/watch?v=KoczwcJUagY](https://www.youtube.com/watch?v=KoczwcJUagY)
+  1. 0x03 | ChatGPT vs Hacker ! SonarSource Kaynak Kod Analizi ile Zafiyet Tespiti Challenge'ı
+      * [https://www.twitch.tv/videos/1677226657](https://www.twitch.tv/videos/1677226657)
+      * [https://www.youtube.com/watch?v=Qp8sRedhE-4](https://www.youtube.com/watch?v=Qp8sRedhE-4)
+</details>
+
 <details>
   <summary>Mobile Security</summary>
 
